@@ -1,0 +1,174 @@
+{
+    "id": "",
+    "title": "Database Engineer",
+    "datePosted": "2023-01-03T18:53:01+05:30",
+    "validThrough": "2023-02-03T18:53:01+05:30",
+    "description": "We’re on a search for a Staff Mobile Developer with the following attributes: Critical Thinking- You are able to skillfully conceptualise, apply, analyse and evaluate information gathered from observation, experience or communication and use it as a guide to action Data-Driven attitude — You often propose solutions or make a point in a logical and objective manner, substantiated with accurate data and evidence Dealing with Ambiguity — You can effectively cope with change and uncertainty, and are comfortable when things are up in the air Goal-oriented — You are driven and can be counted on to exceed goals. You steadfastly push yourself and others to achieve results all the time Problem Solving — You can easily identify and solve complex problems in a methodological manner ",
+    "hiringOrganization": {
+        "name": "Affinidi",
+        "url": "www.affinidi.com",
+        "about": "Affinidi\u202Ffocuses on changing data ownership for good, empowering communities with control and ownership of their data. We do that through enabling the creation, sharing and verification of Verifiable Credentials – a secure and cryptographically verifiable way of sharing sensitive data. Headquartered in Singapore, with offices in India, Germany and Ukraine, Affinidi offers a myriad of solutions deploying decentralized technology and verifiable credentials that create a delightful experience for different groups of customers. These include industries such as health, travel, finance, education and employment. Affinidi, along with\u202FTrustana\u202Fand\u202FGoodWorker, are businesses under LemmaTree.We’re\u202Fmore than just a workplace. In our company, you’ll discover a world of passionate people guided by an inclusive purpose. We love the journey as much as the destination, and belonging to a team that prides itself on mutual respect. If you're passionate about decentralised technologies, we’d love to speak with you",
+        "address": {
+            "name": "affinidi",
+            "streetAddress": "Bangalore",
+            "addressLocality": "Bangalore",
+            "addressRegion": "Bangalore",
+            "addressCountry": "IND",
+            "postalCode": "560034"
+        }
+    },
+    "jobLocation": {
+        "name": "affinidi",
+        "address": {
+            "name": "affinidi",
+            "streetAddress": "Bangalore",
+            "addressLocality": "Bangalore",
+            "addressRegion": "Bangalore",
+            "addressCountry": "IND",
+            "postalCode": "560034"
+        }
+    },
+    "jobLocationType": [
+        "remote",
+        "hybrid",
+        "Onsite"
+    ],
+    "employmentType": [
+        "FULL_TIME",
+        ""
+    ],
+    "jobImmediateStart": true,
+    "qualifications": [
+        {
+            "type":"Minimum Educational Qualifications",
+            "values" :            [
+                {
+                    "kind": "degree",
+                    "value": "Bachelors"
+                },
+                {
+                    "value":"Bachelors or Equivalent Practical Experience"
+                }
+            ]
+        },
+        {
+            "type":"Preferred Educational Qualifications",
+            "values":[
+                {
+                    "kind": "degree",
+                    "value": "Masters"
+                },
+                {
+                    "kind": "degree",
+                    "value": "PhD"
+                },
+                {
+                    "value":"Master's degree or PhD in Computer Science or related technical field."
+                }
+            ]
+        },
+        {
+            "type":"Work Experience",
+            "values":[
+               
+                    {
+                        "kind": "Software Development Experienceegree",
+                        "value": "3 years"
+                    },
+
+                    {
+                        
+                        "value": "2 years of Technical Leadership Experience"
+                    },
+                    {
+                        
+                        "value": "3 years of experience working in a complex, matrixed organization"
+                    }
+
+            ]
+        }
+    ],
+    "OccupationalExperienceRequirements": [
+        {
+            "type": "minimum",
+            "monthsOfExperience": 10
+        },
+        {
+            "type": "overall",
+            "monthsOfExperience": 36
+        },
+        {
+            "type": "3 years of experience working in a complex, matrixed organization"
+        }
+    ],
+    "salary": {
+        "currency": "INR",
+        "pay": [
+            {
+                "minValue": 50000,
+                "maxValue": 60000,
+                "unitText": "YEAR",
+                "type": "baseSalary"
+            },
+            {
+                "minValue": 50000,
+                "maxValue": 60000,
+                "unitText": "YEAR",
+                "type": "variableSalary"
+            },
+            {
+                "minValue": 50000,
+                "maxValue": 60000,
+                "unitText": "YEAR",
+                "type": "allowance"
+            },
+            {
+                "minValue": 50000,
+                "maxValue": 60000,
+                "unitText": "item",
+                "type": "commission"
+            },
+            {
+                "minValue": 5,
+                "maxValue": 8,
+                "unitText": "hour",
+                "type": "overtime"
+            }
+        ]
+    },
+    "identifier": {
+        "name": "internal HRIS ID",
+        "value": "#4567-363F"
+    },
+    "occupationalCategory": {
+        "inCodeSet": {
+            "name": "O*Net-SOC",
+            "dateModified": "2019",
+            "url": "https://www.onetonline.org/"
+        },
+        "codeValue": "15-1132.00",
+        "name": "Software Developers, Applications",
+        "url": "https://www.onetonline.org/link/summary/15-1132.00"
+    },
+    "responsibilities": [
+        "Build frontend experiences for our tools (Web, PWA and React Native) ",
+        "Articulate a long term technical direction and vision for building, maintaining, and scaling our web and mobile platforms",
+        "Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable using modern tools like React, React Native, Typescript, Node.js, Jest and Webpack.",
+        "Mentor and train other team members on design techniques and coding standards. ",
+        "Own all aspects of our front-end architecture ",
+        "Contribute to process improvements and build a high-performance engineering culture "
+    ],
+    "skills": [
+        "You have 8+ years of engineering experience, predominantly in shipping user-facing production features",
+        "You are an expert in React.js and React Native, ideally using TypeScript language extensions  ",
+        "You have a good understanding of JavaScript Design Patterns ",
+        "You have good experience writing front end test cases  ",
+        "You’re familiar with current trends and best practices in front-end architecture, including performance, security and usability.  ",
+        "You’re familiar with product and design lifecycles, and collaborating closely with designers, engineers, and product managers\u202F",
+        "You have experience with Test Driven Development and know when to apply it.",
+        "You have experience working on AWS or other cloud stacks and Docker.  ",
+        "You have experience building systems with high data protection requirements, anonymous data and data encryption. ",
+        "You have experience with IaaC. ",
+        "You have worked on building responsive UI using React Native. "
+    ]
+}
