@@ -1,0 +1,19 @@
+{
+    "context": {
+        "domain": "dsep:jobs",
+        "action": "status",
+        "version": "1.0.0",
+        "bap_id": "nic2004:74910.BPP",
+        "bap_uri": "https://bap.url/",
+        "bpp_id": "affinidi.bpp",
+        "bpp_uri": "http://DSEP-nlb-d3ed9a3f85596080.elb.ap-south-1.amazonaws.com",
+        "transaction_id": "a9aaecca-10b7-4d19-b640-b047a7c62195",
+        "message_id": "$89bdae17-9942-40c8-869a-5bd413356407",
+        "timestamp": "2022-10-11T09:55:41.161Z"
+    },
+    "message": {
+       
+            "order_id": "1675837691"
+        
+    }
+}
