@@ -15,7 +15,7 @@ SearchAPI to handle catalog search requests from BPP and to post and manage the 
 
 ## Steps: 
 
-### start the containers using 	## docker-compose up -d 
+### start the containers using 	      docker-compose up -d 
 ### Check status using 	## docker-compose ps 
 ### For Logs:  ## docker-compose logs -f 
 ### Post a sample job to searchAPI at http://localhost:8080/opensearch
