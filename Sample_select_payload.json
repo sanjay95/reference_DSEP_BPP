@@ -1,0 +1,21 @@
+{
+    "context": {
+        "domain": "dsep:jobs",
+        "action": "select",
+        "version": "1.0.0",
+        "bap_id": "nic2004:74910.BPP",
+        "bap_uri": "https://BAP.url/",
+        "transaction_id": "a9aaecca-10b7-4d19-b640-b047a7c62195",
+        "message_id": "${{$randomUUID}}",
+        "timestamp": "2022-10-11T09:55:41.161Z"
+    },
+    "message": {
+        "order": {
+            "items": [
+                {
+                    "id": "8476030BB69C550CC77BE77606EC6D5E"
+                }
+            ]
+        }
+    }
+}
