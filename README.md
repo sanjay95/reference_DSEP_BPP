@@ -20,8 +20,15 @@ SearchAPI to handle catalog search requests from BPP and to post and manage the 
 ## Steps: 
 
 ### start the containers using 	      docker-compose up -d 
+![image](https://user-images.githubusercontent.com/1314582/217458018-74fd2c64-d029-4dc2-9d9c-4b58798a0760.png)
+
 ### Check status using 	## docker-compose ps 
+<img width="1130" alt="image" src="https://user-images.githubusercontent.com/1314582/217458204-b2ad8f6c-c602-410c-b39d-2cdbc092eca8.png">
+
+
 ### For Logs:  ## docker-compose logs -f 
+
+
 ### Post a sample job to searchAPI at http://localhost:8080/opensearch
 With payload: https://github.com/sanjay95/reference_DSEP_BPP/blob/main/Sample_Job.json
 ### Note: ID will be generated and saved in catalog
