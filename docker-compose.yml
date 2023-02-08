@@ -57,7 +57,7 @@ services:
     networks:
       - opensearch-net
   bpp:
-    image: kosmic/bpp:8f2
+    image: kosmic/bpp:latest
     container_name: bpp
     ports:
       - 8088:80
@@ -73,7 +73,7 @@ services:
     networks:
       - opensearch-net
   searchapi:
-    image: kosmic/searchapi:8f
+    image: kosmic/searchapi:latest
     container_name: searchapi
     ports:
       - 8080:80
