@@ -1,0 +1,53 @@
+{
+    "id": "1676379236106",
+    "jobid": "8A690F158A37965A2CC0E69EC8B360B2",
+    "jobTitle": "Test manager",
+    "transactionid": "a9aaecca-10b7-4d19-b640-b047a7c60008",
+    "orderId": "jdhflks",
+    "docs": null,
+    "person": {
+        "name": "Sanjay",
+        "image": null,
+        "dob": null,
+        "gender": "M",
+        "creds": [
+            {
+                "id": "claimId:af7e0b1b5c4858eb",
+                "type": "GenderData",
+                "url": "https://cloud-wallet-api.prod.affinity-project.org/api/v1/share/b8a2c0cbc5a02da03d2aecb59094672a8e0b16a1c845456bd18678529d6901df?key=beda347c431e02319bd31c63e5f5f5f5e14939efdb6697ce4d93c87eade27c47"
+            },
+            {
+                "id": "claimId:af7e0b1b5c4858eb",
+                "type": "ResumeVC",
+                "url": "https://cloud-wallet-api.prod.affinity-project.org/api/v1/share/b8a2c0cbc5a02da03d2aecb59094672a8e0b16a1c845456bd18678529d6901df?key=beda347c431e02319bd31c63e5f5f5f5e14939efdb6697ce4d93c87eade27c47"
+            }
+        ],
+        "tags": [
+            {
+                "display": true,
+                "code": null,
+                "name": null,
+                "list": [
+                    {
+                        "code": null,
+                        "name": null,
+                        "value": null,
+                        "display": null
+                    },
+                    {
+                        "code": null,
+                        "name": null,
+                        "value": null,
+                        "display": null
+                    }
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "phone": "9999999999999",
+        "email": "abc@abc.bc",
+        "tags": null
+    },
+    "state": "Accepted"
+}
